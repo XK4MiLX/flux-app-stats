@@ -95,4 +95,4 @@ Shows key metrics: new apps, instances, multi-component apps, time period, block
 
 ## License
 
-AGPL-3.0-or-later (same as Flux)
+AGPL-3.0-or-later
